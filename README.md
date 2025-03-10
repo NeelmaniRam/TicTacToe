@@ -16,15 +16,6 @@
 
 ---
 
-## 📸 Screenshots  
-
-| **Game Start** | **Winning State** | **Draw State** |
-|:-------------:|:-------------:|:-------------:|
-| ![Game Start](https://via.placeholder.com/250) | ![Win State](https://via.placeholder.com/250) | ![Draw State](https://via.placeholder.com/250) |
-
-
----
-
 ## 🛠️ Technologies Used  
 
 - **HTML** – Structure of the game  
